@@ -1,0 +1,6 @@
+build/
+release/
+*.user
+*.log
+.env
+.env.*

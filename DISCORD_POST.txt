@@ -1,0 +1,15 @@
+**Magmarena Restored | v0.1.0**
+
+Brings back the old Magmarena through Forest, with the original ball game, teams, goals, and scoreboards. Includes fixes for the tunnel and broken arena lighting.
+
+- Private rooms and modded private rooms only.
+- PC/Steam Gorilla Tag build 26061329 + BepInEx 5.
+- Everyone playing needs the mod, including the host. PUN rooms only.
+- Tested with a friend in a private room.
+
+**Install:** Close Gorilla Tag and extract the release ZIP into the game folder. The DLL goes in BepInEx/plugins/MagmarenaPrivate/. Then join a private room and use the entrance in Forest.
+
+**Download:** https://github.com/itay123458/MagmarenaRestored/releases/latest
+**Source / bugs:** https://github.com/itay123458/MagmarenaRestored
+
+Original map and assets belong to Another Axiom. This is an unofficial mod and is not endorsed by Another Axiom.
